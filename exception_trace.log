@@ -1,0 +1,178 @@
+
+pong: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+SQLITE_DATABASE     commit @4              is_in_transaction:           
+<0000000002CE0474>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+POINTAGE            creer_pointage @10                                  
+<0000000002CE0450>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make @5                                             
+<0000000002CE0408>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                root's creation                                     
+<0000000002CE0408>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+pong: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+POINTAGE            creer_pointage @7      l_insert_is_compiled:        
+<0000000002DC0468>                         Assertion violated.           Fail
+-------------------------------------------------------------------------------
+POINTAGE            creer_pointage @7                                   
+<0000000002DC0468>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make @5                                             
+<0000000002DC0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                root's creation                                     
+<0000000002DC0420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+pong: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+SQLITE_DATABASE     commit @4              is_in_transaction:           
+<0000000002DC048C>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+POINTAGE            creer_pointage @12                                  
+<0000000002DC0468>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make @5                                             
+<0000000002DC0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                root's creation                                     
+<0000000002DC0420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+Catcall detected in {DEPLACEMENT}.balle for arg#1: expected BALLE but got BALLE
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory J:\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory J:\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+Error could not open Eiffel update file C:\Documents and Settings\Anthony\Bureau\Pong\EIFGENs\client\W_code\pong.melted
+From directory C:\Users\Cb7power\Desktop\Objet 2\Pong
+Error 2: No such file or directory
+
+pong: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+IMAGE               get_bmp_h              Unhandled exception:         
+<00000000025F057C>  (From SDL_WRAPPER)     External event.               Fail
+-------------------------------------------------------------------------------
+IMAGE               get_bmp_h                                           
+<00000000025F057C>  (From SDL_WRAPPER)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+IMAGE               afficher @1                                         
+<00000000025F057C>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make_solo @71                                       
+<00000000025F0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make @34                                            
+<00000000025F0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                root's creation                                     
+<00000000025F0420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+pong: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+ARRAYED_LIST        i_th @2                valid_index:                 
+<00000000025F3174>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+BONUS               creer_bonus @12                                     
+<00000000025F3150>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make_solo @15                                       
+<00000000025F0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                make @34                                            
+<00000000025F0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GAME                root's creation                                     
+<00000000025F0420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+pong: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
